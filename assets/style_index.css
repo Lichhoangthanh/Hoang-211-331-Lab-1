@@ -142,7 +142,7 @@ html {
 
 #content #PI-all #PI-left #PI-contact-page {
     text-align: center;
-    background-image: url("/assets/imgs/Img_am_left2.jpg");
+    background-image: url("./assets/imgs/Img_am_left2.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
     padding: 20px;
